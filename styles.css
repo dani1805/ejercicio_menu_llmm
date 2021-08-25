@@ -1,0 +1,60 @@
+* {
+    margin:auto;
+    padding: auto;
+    box-sizing: border-box;
+    
+}
+
+h1 {
+    color: #44688A;
+    text-align: center;
+}
+
+a {
+    list-style: none;
+    text-decoration: none;
+}
+
+nav {
+    margin-top: 30px;
+   
+}
+
+section {
+    text-align: center;
+    width: 55%;
+    margin-left: 30%;
+    margin-right: 15%;
+}
+
+nav ul li  {
+    background-color:#44688A;
+    display: inline-block;
+    padding: 15px;
+}
+nav ul li a {
+    color: white;
+    text-align: center;
+}
+
+nav ul li:hover {
+    box-shadow: 0px 5px 0px 0px #ABCDF0;
+    background-color: #113257;
+}
+
+aside {
+    width: 12.5%;
+    float: left;
+    margin-right: 10px;
+}
+
+.vertical-menu ul li {
+    display:block;
+    margin-top: 1px;
+}
+
+.vertical-menu ul {
+    margin: 0px;
+}
+
+
